@@ -18,7 +18,7 @@ The table below illustrates the BM, candidate, and DT activities within the proc
 | | | 8. DT evaluates test and reports evaluation to BM |
 | 9. BM integrates technical evaluation on the final decision | | |
 
-The steps are
+The steps are described in the remainder of the section.
 
 ### 1. [BM] Asking candidate to send his/her GitHub username
 
