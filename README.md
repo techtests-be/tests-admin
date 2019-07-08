@@ -2,6 +2,12 @@
 
 This repository contains the procedure guide (this file) and will contain in the future any administrative files required by the procedure.
 
+## Getting Started
+
+### Structure of the Testing Platform
+
+### Required Tools
+
 ## General Procedure
 
 The table below illustrates the BM, candidate, and DT activities within the procedure.
