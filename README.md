@@ -1,4 +1,4 @@
-# Tests: Administration
+# Tests - Administration
 
 This repository contains the procedure guide (this file) and will contain in the future any administrative files required by the procedure.
 
@@ -16,3 +16,15 @@ The table below illustrates the BM, candidate, and DT activities within the proc
 | 6. BM notifies DT that test is ready for evaluation | | |
 | | | 7. DT evaluates test and reports evaluation to BM |
 | 8. BM integrates technical evaluation on the final decision | | |
+
+### 1. [BM] Asking candidate to send his/her GitHub username
+
+This step can be executed by any preferred communication channel. The important message to be transmitted is that:
+ - The exercise is all based on a GitHub repository, and for that reason we need to add the candidate as contributor
+ - We need the username associated to an email that the candidate has access to, as the invite will be sent to this associated email.
+ 
+### 2. [Candidate] Provide a GitHub username to the BM
+
+The candidate will reply to the BM request with his/her GitHub username. Once the BM has this information, the candidate repository can be prepared.
+
+### 3. [BM] Preparing a repository for the candidate
