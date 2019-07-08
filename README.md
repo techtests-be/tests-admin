@@ -28,3 +28,22 @@ This step can be executed by any preferred communication channel. The important 
 The candidate will reply to the BM request with his/her GitHub username. Once the BM has this information, the candidate repository can be prepared.
 
 ### 3. [BM] Preparing a repository for the candidate
+
+1. Visit the [GitHub account home](https://github.com/techtests-be) - you will need to login (credentials shared ad-hoc)
+2. Create a new repository by going to Repositories then New (as shown below)
+
+01.CreateRepository.png
+
+3. Edit the repository details:
+ a. Repository name should be of the format test-<lang>-<first_name>-<last_name> (e.g. test-java-francisco-pires)
+ b. Make sure the repository is set to private
+
+02.CreateRepository.png
+
+At the end of this step, you should see the following default page on the newly created repository:
+
+03.RepositoryCreated.png
+
+4.
+
+04.AddCollaborator.png
