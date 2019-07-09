@@ -18,7 +18,7 @@ To create a new test for a candidate, it is required to create a new repository 
 
 ## General Procedure
 
-The table below illustrates the BM, candidate, and DT activities within the procedure.
+The table below illustrates the BM, candidate, and TD activities within the procedure.
 
 | BM | Candidate | TD |
 |----|-----------|----|
@@ -49,11 +49,11 @@ The candidate will reply to the BM request with his/her GitHub username. Once th
 
 2. From the main page, press the **Repositories** tab, and then select the template repository you wish (in the image below, *test-java-junior*). This will bring you to the template repository.
 
-![Go to template repository](doc/images/01.CreateRepository.png)
+![Go to template repository](doc/images/01.OpenTemplateRepository.png)
 
 3. Create a new repository from the **Use this template** button.
 
-![Use this template](doc/images/02.OpenTemplateRepository.png)
+![Use this template](doc/images/02.CreateRepository.png)
 
 4. In the new screen, type the name of the candidate repository and set the repository to private. For the name, please use the naming convention: **test-*language*-*first_name*-*last_name***
 
