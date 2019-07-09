@@ -4,6 +4,8 @@ This repository contains the procedure guide (this file) and will contain in the
 
 ## Getting Started
 
+The technical tests are made available in GitHub. The main idea is to have a project prepared but yet to be completed (by the candidate). When a new test is required, a copy of this project is created and the link sent to the candidate. This approach is explained in detail in the rest of this section.
+
 ### Structure of the Testing Platform
 
 ### Required Tools
